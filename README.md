@@ -77,3 +77,11 @@ eg, Twitter's REST API was one of the first major APIs to make REST 'trendy', at
 2.) HTTP verbs are used, although whether their usage is good practice or not is up for debate. For example, to delete a tweet, a POST request must be issued to /statuses/destroy/:id, therefore encoding the action in the URI rather than the verb. Perhaps a better way would be to issue a DELETE to /statuses/:id. The API arguably fails level 2.
 
 3.) There are no links, and no self-documentation in responses, so the API fails level 3 entirely.
+
+Five clue to determine api is REST or not
+----
+<a href="https://lornajane.net/posts/2013/five-clues-that-your-api-isnt-restful" target="_blank"> click here </a>
+
+Caching REST API
+-----
+<a href="http://www.kennethlange.com/posts/Boost-Your-REST-API-with-HTTP-Caching.html" target="_blank">click here </a>
