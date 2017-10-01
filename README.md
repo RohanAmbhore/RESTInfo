@@ -85,3 +85,16 @@ Five clue to determine api is REST or not
 Caching REST API
 -----
 <a href="http://www.kennethlange.com/posts/Boost-Your-REST-API-with-HTTP-Caching.html" target="_blank">click here </a>
+
+
+HTTP Catche
+------
+<a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching">click here</a>
+
+HTTP  2.0
+-------
+<a href="https://developers.google.com/web/fundamentals/performance/http2/">click here</a>
+
+HTTPS
+------
+<a hred="https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https">click here</a>
