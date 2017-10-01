@@ -97,4 +97,4 @@ HTTP  2.0
 
 HTTPS
 ------
-<a hred="https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https">click here</a>
+<a href="https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https">click here</a>
